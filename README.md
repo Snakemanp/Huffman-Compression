@@ -30,3 +30,6 @@ g++ -o huffman_compression main.cpp
 ## Execution
 ```sh
 ./huffman_compression
+```
+### OR
+Directly execute the ` .exe ` file in ` x64\Release `.
