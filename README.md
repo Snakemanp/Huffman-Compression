@@ -26,7 +26,7 @@ The `.bin` file produced after compression follows this structure:
 To compile the program, use a C++ compiler (e.g., g++):
 ```sh
 g++ -o huffman_compression main.cpp 
-
+```
 ## Execution
 ```sh
 ./huffman_compression
